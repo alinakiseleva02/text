@@ -1,4 +1,4 @@
-Запрос 1: Изменение оценки
+Запрос 1:Изменение оценки
 
 Метод: PATCH
 URL: https://ltbxzfynmaawtqwdqext.supabase.co/rest/v1/grades?id=eq.2
@@ -12,7 +12,7 @@ Body (raw - JSON):
 Обновляет оценку для записи с ID равным 2 (или другим ID) в таблице "grades" на значение 5.
 
 
-Запрос 2: Добавление новой работы
+Запрос 2:Добавление новой работы
 
 Метод: POST
 URL: https://ltbxzfynmaawtqwdqext.supabase.co/rest/v1/works
