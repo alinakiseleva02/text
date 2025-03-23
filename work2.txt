@@ -1,0 +1,14 @@
+Запрос 2:Добавление новой работы
+
+Метод: POST
+URL: https://ltbxzfynmaawtqwdqext.supabase.co/rest/v1/works
+Headers:
+  apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx0Ynh6ZnlubWFhd3Rxd2RxZXh0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzk5NzEzNDgsImV4cCI6MjA1NTU0NzM0OH0.xVvXj-vjWXGeIOkpU3OycbyfGdrxKF1z8p9GR5CtK3U
+  Content-Type: application/json
+Body (raw - JSON):
+{
+         "name": "Новая работа",
+         "description": "Описание новой работы",
+         "students_id": 1
+}
+      
